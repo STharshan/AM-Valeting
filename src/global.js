@@ -10,14 +10,14 @@ export const HeroContent = {
 
 export const Services = [
   {
-    subtitle: "Paint Correction",
+    subtitle: "Paint Protection Film",
     image: "/p.jpeg",
     coverage: [
-      "Removes swirl marks and light scratches",
-      "Restores deep gloss and clarity",
-      "Eliminates oxidation and dullness",
-      "Multi-stage machine polishing",
-      "Enhances overall paint finish",
+      "Invisible clear protective film",
+      "Protects against stone chips and scratches",
+      "UV and weather resistance",
+      "Self-healing technology for minor scratches",
+      "Preserves original paint and resale value",
     ],
   },
   {
@@ -31,17 +31,17 @@ export const Services = [
       "Easier cleaning and maintenance",
     ],
   },
-{
-  subtitle: "Machine Polishing",
-  image: "/m.webp",
-  coverage: [
-    "Removes deeper swirl marks and surface imperfections",
-    "Restores high-gloss shine and paint clarity",
-    "Reduces light scratches and oxidation",
-    "Professional machine-applied compounds and polish",
-    "Leaves paintwork smooth, vibrant, and refreshed",
-  ],
-},
+  {
+    subtitle: "Machine Polishing",
+    image: "/m.webp",
+    coverage: [
+      "Removes deeper swirl marks and surface imperfections",
+      "Restores high-gloss shine and paint clarity",
+      "Reduces light scratches and oxidation",
+      "Professional machine-applied compounds and polish",
+      "Leaves paintwork smooth, vibrant, and refreshed",
+    ],
+  },
 ];
 
 export const reviewsData = [
@@ -94,9 +94,9 @@ export const footerContent = {
 
   office: {
     title: "Office",
-    address: "Unit 15, 353 Bentley Rd, Doncaster DN5 9TJ",
+    address: "Melton Mowbray",
     email: "office@-nottingham.co.uk",
-    phone: "+447572 899259"
+    phone: "+447814 548441"
   },
 
   bottomBar: {

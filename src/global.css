@@ -1,6 +1,7 @@
 :root {
-   --color-primary: #F66A0B;
-   --color-secondary: #cf7234;
+   --color-primary:  #6F6F6F;
+   --color-secondary: #D92235
+;
 }
 
 .text-primary { color: var(--color-primary) !important; }
